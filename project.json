@@ -1,0 +1,9 @@
+{
+  "name": "my_family",
+  "description": "Alexa skill for simulating family members",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "golang",
+  "role": "arn:aws:iam::649547136611:role/my_family_lambda_function",
+  "environment": {}
+}
